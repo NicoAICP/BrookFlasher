@@ -7,3 +7,5 @@ If you Flash a wrong Firmware to your Wingman it will stay in DFU mode and can b
 
 For Usage you just have to Put the Firmware (in .hex format) in the same folder as the BrookFlasher, connect your Wingman in DFU mode to your PC, and run the Flasher.
 After that just follow onscreen Instructions.
+
+I am not responsible for any damages.
